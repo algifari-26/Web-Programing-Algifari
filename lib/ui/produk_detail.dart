@@ -32,7 +32,7 @@ class _ProdukDetailState extends State<ProdukDetail> {
               Text(widget.kodeProduk),
             ],
           ),
-          const SizedBox(height: 8), // Memberi sedikit jarak antar baris
+          const SizedBox(height: 8), // jarak antar baris
           // Baris 2: Nama Produk
           Row(
             children: [
